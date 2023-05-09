@@ -1,0 +1,12 @@
+{
+  "name": "desafio-latam-1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Crear una app backend que agenda horario en el veterinario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Godinho",
+  "license": "ISC"
+}

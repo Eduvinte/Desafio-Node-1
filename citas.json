@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "jade",
+    "edad": "4",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "semVergonha"
+  },
+  {
+    "nombre": "Almendra",
+    "edad": "2",
+    "animal": "perro",
+    "color": "negra",
+    "enfermedad": "nada"
+  }
+]
